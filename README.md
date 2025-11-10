@@ -1,1 +1,1 @@
-# FraudSight - Credit Card Fraud Detection System
+# FraudSight : Credit Card Fraud Detection System
